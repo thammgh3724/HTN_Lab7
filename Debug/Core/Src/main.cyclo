@@ -1,0 +1,11 @@
+../Core/Src/main.c:87:5:main	1
+../Core/Src/main.c:142:6:SystemClock_Config	3
+../Core/Src/main.c:183:6:system_init	1
+../Core/Src/main.c:193:9:isButtonClear	6
+../Core/Src/main.c:198:9:isButtonStart	6
+../Core/Src/main.c:203:9:isButtonTop	6
+../Core/Src/main.c:207:9:isButtonDown	6
+../Core/Src/main.c:211:9:isButtonLeft	6
+../Core/Src/main.c:215:9:isButtonRight	6
+../Core/Src/main.c:219:6:touchProcess	13
+../Core/Src/main.c:281:6:Error_Handler	1

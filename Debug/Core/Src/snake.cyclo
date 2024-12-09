@@ -1,0 +1,14 @@
+../Core/Src/snake.c:71:6:drawHeadSnake	5
+../Core/Src/snake.c:112:6:goLeft	7
+../Core/Src/snake.c:154:6:goRight	7
+../Core/Src/snake.c:196:6:goUp	7
+../Core/Src/snake.c:238:6:goDown	7
+../Core/Src/snake.c:279:5:checkOutOfValidRange	5
+../Core/Src/snake.c:286:5:checkEatBody	4
+../Core/Src/snake.c:294:5:checkEatFruit	3
+../Core/Src/snake.c:302:6:checkHead	4
+../Core/Src/snake.c:329:6:move	5
+../Core/Src/snake.c:350:6:snakeRun	5
+../Core/Src/snake.c:384:6:snakeInit	4
+../Core/Src/snake.c:419:6:generateFruit	6
+../Core/Src/snake.c:477:6:stopSnake	1
